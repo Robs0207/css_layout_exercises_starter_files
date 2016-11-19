@@ -1,0 +1,47 @@
+main {
+  font-size: 0;
+}
+
+.box{
+  height: 500px;
+  width: 800px;
+}
+
+.row {
+  text-align: center;
+}
+
+.half {
+  width: 50%;
+  height: 200px;
+  display: inline-block;
+  border: 1px black solid;
+}
+
+.third {
+  width: 33.33%;
+  height: 300px;
+  display: inline-block;
+  border: 1px black solid;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
+
+.black {
+    background-color: black;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.grey {
+    background-color: grey;
+}
+
